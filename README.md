@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+## 💻 Preview
+
 ![Preview da Calculadora](assets/preview.png)
 
 Uma calculadora web com design moderno e minimalista, desenvolvida para oferecer uma experiência de usuário fluida. O projeto utiliza **Glassmorphism** e efeitos de gradiente para uma interface elegante e profissional.
